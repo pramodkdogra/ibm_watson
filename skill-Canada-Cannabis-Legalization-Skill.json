@@ -1,0 +1,1152 @@
+{
+  "name": "Canada Cannabis Legalization Skill",
+  "intents": [
+    {
+      "intent": "impairment",
+      "examples": [
+        {
+          "text": "How does cannabis trigger impairment ?"
+        },
+        {
+          "text": "Can cannabis cause impairment ?"
+        },
+        {
+          "text": "Can cannabis lead to impairment ?"
+        },
+        {
+          "text": "Does cannabis use lead to impairment?"
+        }
+      ]
+    },
+    {
+      "intent": "whatiscannabis",
+      "examples": [
+        {
+          "text": "Give me some information on Cannabis?"
+        },
+        {
+          "text": "What is Cannabis?"
+        },
+        {
+          "text": "Can you tell me about Cannabis?"
+        },
+        {
+          "text": "Tell me more on Cannabis?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "See ya later"
+        },
+        {
+          "text": "Exit"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "so long"
+        },
+        {
+          "text": "take care"
+        }
+      ],
+      "description": "Good byes"
+    },
+    {
+      "intent": "peopleusecannabis",
+      "examples": [
+        {
+          "text": "Why do people use cannabis?"
+        },
+        {
+          "text": "what motivates people to consume cannabis?"
+        },
+        {
+          "text": "what is the rationale behind cannabis use?"
+        },
+        {
+          "text": "What are the reasons for cannabis use?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "shorttetm",
+      "examples": [
+        {
+          "text": "What are the short-term effects of cannabis use?"
+        },
+        {
+          "text": "What are intermediary effects of cannabis?"
+        },
+        {
+          "text": "What are ephemeral effects of cannabis?"
+        },
+        {
+          "text": "In short range how can cannabis affect?"
+        },
+        {
+          "text": "What are the short-range effects of cannabis use?"
+        },
+        {
+          "text": "How does cannabis affect shortly?"
+        },
+        {
+          "text": "In short term how can cannabis affect?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "longterm",
+      "examples": [
+        {
+          "text": "What are prolonged effects of cannabis?"
+        },
+        {
+          "text": "What are the long-term effects of cannabis use?"
+        },
+        {
+          "text": "In long range how can cannabis affect?"
+        },
+        {
+          "text": "What are the long-range effects of cannabis use?"
+        },
+        {
+          "text": "How does cannabis affect largely?"
+        },
+        {
+          "text": "In long term how can cannabis affect?"
+        },
+        {
+          "text": "What are permanent effects of cannabis?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "thccbd",
+      "examples": [
+        {
+          "text": "How is THC different from CBD?"
+        },
+        {
+          "text": "How is CBD different from THC?"
+        },
+        {
+          "text": "Differentiate THC and CBD ?"
+        },
+        {
+          "text": "Differentiate CBD and THC?"
+        },
+        {
+          "text": "How do I know the difference between THC and CBD ?"
+        },
+        {
+          "text": "How do I know the difference between CBD and THC ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "How are you  ?"
+        }
+      ],
+      "description": "Greetings"
+    },
+    {
+      "intent": "localagent",
+      "examples": [
+        {
+          "text": "Can I chat with an expert ?"
+        },
+        {
+          "text": "Can I chat with customer service ?"
+        },
+        {
+          "text": "I need to chat with an agent"
+        },
+        {
+          "text": "is there customer service ?"
+        },
+        {
+          "text": "Is there an expert ?"
+        },
+        {
+          "text": "I can talk to an expert?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "growcannabis",
+      "examples": [
+        {
+          "text": "Can i grow it ?"
+        },
+        {
+          "text": "Is growing mrijuana at home allowed?"
+        },
+        {
+          "text": "Can I grow marijuana at home?"
+        },
+        {
+          "text": "Is Growing at home allowed?"
+        },
+        {
+          "text": "In a residential setting what is the limit on marijuana?"
+        },
+        {
+          "text": "Can I plant Cannabis ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "smokecannabis",
+      "examples": [
+        {
+          "text": "How can we somke Cannabis?Can you smoke it like a cigarette ?"
+        },
+        {
+          "text": "What are different ways to smoke ?"
+        },
+        {
+          "text": "How is Cannabis smoked?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cbd",
+      "examples": [
+        {
+          "text": "Describe CBD ?"
+        },
+        {
+          "text": "Do you know anything about CBD ?"
+        },
+        {
+          "text": "What is CBD?"
+        },
+        {
+          "text": "Tell me about CBD?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "help me"
+        },
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "can you help"
+        }
+      ],
+      "description": "Ask for help"
+    },
+    {
+      "intent": "activeingredient",
+      "examples": [
+        {
+          "text": "What is Cannabis made of ?"
+        },
+        {
+          "text": "What is the active ingredient of Cannabis?"
+        },
+        {
+          "text": "Can you tell me what cannabis contains?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "addictedcannabis",
+      "examples": [
+        {
+          "text": "Will cannabis cause me to be dependent on it?"
+        },
+        {
+          "text": "Can excessive cause it to be a habit forming?"
+        },
+        {
+          "text": "Can I become addicted to cannabis?"
+        },
+        {
+          "text": "Does Cannabis cause addiction?"
+        },
+        {
+          "text": "Will use of cannabis cause addiction?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "thc",
+      "examples": [
+        {
+          "text": "Do you know anything about THC ?"
+        },
+        {
+          "text": "Describe THC ?"
+        },
+        {
+          "text": "Tell me about THC?"
+        },
+        {
+          "text": "What is THC?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "nameofcannabis",
+      "examples": [
+        {
+          "text": "How many other names are there for Cannabis?"
+        },
+        {
+          "text": "What are the common names for Cannabis?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "Great"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "many thanks"
+        }
+      ],
+      "description": "Thanks"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Zip",
+          "patterns": [
+            "(\\b|\\s)\\d{5}(\\b|\\s)"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Phone pattern",
+          "patterns": [
+            "(\\d{3})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yes",
+            "you bet",
+            "you betcha",
+            "yep"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-location",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "sys-person",
+      "values": []
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "empire state",
+            "emprire state"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "time sqaure",
+            "time square",
+            "times sqaure"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "new years",
+          "synonyms": [
+            "1/1",
+            "jan 1",
+            "jan 1st",
+            "jan first",
+            "january 1",
+            "january 1st",
+            "january first",
+            "new year",
+            "new year day",
+            "new years day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "labor day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas eve",
+          "synonyms": [
+            "x mas eve",
+            "x-mas eve",
+            "xmas eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years eve",
+          "synonyms": [
+            "12-31",
+            "12/31",
+            "dec 31",
+            "dec 31st",
+            "new year's eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "memorial day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "independence day",
+          "synonyms": [
+            "7/4",
+            "fourth of july",
+            "july 4",
+            "july 4th",
+            "july fourth"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "valentine's day",
+          "synonyms": [
+            "valentine day",
+            "valentines day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": [
+            "christmas day",
+            "x man day",
+            "xmas",
+            "x mas",
+            "x-mas",
+            "x-mas day",
+            "xmas day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "halloween",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "thanksgiving",
+          "synonyms": [
+            "turkey day"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "specialist",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Barbara",
+          "synonyms": [
+            "barbra"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Robert",
+          "synonyms": [
+            "bob"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicholas",
+          "synonyms": [
+            "nick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Derrik",
+          "synonyms": [
+            "derek",
+            "derik",
+            "derrik",
+            "derrick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Brenda",
+          "synonyms": []
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "description": "Virtual assistant demo skill",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Name of Cannabis",
+      "output": {
+        "text": {
+          "values": [
+            "Other Names for Cannabis include as marijuana, grass, pot, dope, Mary Jane, hooch, weed, hash, joints, brew, reefers, cones, smoke, mull, buddha, ganga, hydro, yarndi, heads and green."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#nameofcannabis",
+      "dialog_node": "node_9_1542543893225",
+      "previous_sibling": "node_8_1542543745952"
+    },
+    {
+      "type": "standard",
+      "title": "Grow Cannabis",
+      "output": {
+        "text": {
+          "values": [
+            "You are able to grow marijuana plants but limited upto four plants per residence (not per person)."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#growcannabis",
+      "dialog_node": "node_6_1542545796277",
+      "previous_sibling": "node_5_1542545632259"
+    },
+    {
+      "type": "standard",
+      "title": "Smoke Cannabis",
+      "output": {
+        "text": {
+          "values": [
+            "Usually Cannabis is smoked in hand-rolled cigarettes known as joints or in special waterpipes called bongs. These pipes or bongs can be bought or made from things such as orange juice containers, soft drink cans or even toilet rolls. The known benefits of smoking cannabis includes some evidence of potential therapeutic uses for cannabis or its component chemicals (cannabinoids) and many Canadians report using cannabis for medical purposes for health problems such as chronic pain, nausea/vomiting associated with cancer chemotherapy, and spasticity with multiple sclerosis. Any kind of smoke is harmful. In fact, studies have shown that cannabis smoke contains many of the same harmful substances as tobacco smoke. Like smoking cigarettes, smoking cannabis can damage your lungs and can cause bronchitis-like symptoms, coughing and wheezing which can, for example, affect athletic performance.While the effects of second hand smoke from tobacco are well known, more research is needed to better understand the health effects of second hand smoke from cannabis."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#smokecannabis",
+      "dialog_node": "node_3_1542545256560",
+      "previous_sibling": "node_2_1542545064036"
+    },
+    {
+      "type": "standard",
+      "title": "CBD",
+      "output": {
+        "text": {
+          "values": [
+            "CBD is a Cannabidiol. CBD is a cannabis compound that has significant medical benefits, but does not make people feel “stoned” and can actually counteract the psychoactivity of THC."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#cbd",
+      "dialog_node": "node_1_1542544775773",
+      "previous_sibling": "node_4_1542544666200"
+    },
+    {
+      "type": "standard",
+      "title": "THC and CBD",
+      "output": {
+        "text": {
+          "values": [
+            "Cannabis plants containing small amounts of CBD and high levels of THC result in a stronger ‘stoned’ feeling, while plants with more CBD and less THC create a weaker, more relaxed, effect. Both THC and CBD are the two primary cannabinoids that occur naturally in the Cannabis sativa plant, most commonly known as cannabis.Both of these substances interact with the cannabinoid receptors found in the human body and brain, but they differed dramatically in their effects. THC is an illegal drug with considerable immediate and long-term cognitive side effects. These include impaired thinking and reasoning, a reduced ability to plan and organize, altered decision-making, and reduced control over impulses.Also, chronic use of THC correlates with significant abnormalities in the heart and brain.CBD lacks the harmful cognitive effects of THC. In fact, CBD can counteract the psychoactive effects of THC.Research suggests CBD may be better for inflammation and neuropathic pain, while THC may excel with spasticity and cramp-related pain."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#thccbd",
+      "dialog_node": "node_2_1542545064036",
+      "previous_sibling": "node_1_1542544775773"
+    },
+    {
+      "type": "standard",
+      "title": "Long Term",
+      "output": {
+        "text": {
+          "values": [
+            "Long-term effects of cannabis use can damage the lungs and make it harder to breathe,Affect mental health and Make you physically dependent or addicted.Cannabis smoke contains many of the same harmful substances as tobacco smoke. Like smoking cigarettes, smoking cannabis can damage your lungs.Affect mental health by Using cannabis regularly and continuously over time makes you more likely to experience anxiety, depression, psychosis, and schizophrenia.Higher-strength cannabis products (such as concentrates like “shatter”, wax, dabs) can worsen the mental health effects of cannabis use. Stopping or reducing cannabis use can improve outcomes. Make you physically dependent or addicted, It is estimated that 1 out of 11 (or 9%) of those who use cannabis in their lifetime will become addicted to cannabis.This rate increases to 16% for those who start using cannabis during adolescence and up to 1 out of 2 people who smoke cannabis daily."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#longterm",
+      "dialog_node": "node_8_1542574460269",
+      "previous_sibling": "node_7_1542546093105"
+    },
+    {
+      "type": "standard",
+      "title": "People use Cannabis",
+      "output": {
+        "text": {
+          "values": [
+            "Most people use cannabis to experience a sense of mild euphoria and relaxation, often referred to as a \"high\". Cannabis causes changes in the user's mood and also affects how they think and perceive the environment, e.g. everyday activities such as watching the television and listening to music can become altered and more intense."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#peopleusecannabis",
+      "dialog_node": "node_4_1542545437018",
+      "previous_sibling": "node_3_1542545256560"
+    },
+    {
+      "type": "standard",
+      "title": "Impairment",
+      "output": {
+        "text": {
+          "values": [
+            "Cannabinoids present in the cannabis plant and its derived drugs are known to cause impaired driving in users, with effects on a driver similar to those of alcohol.Meta-analysis of epidemiological studies shows that recent cannabis use elevates the risk of motor vehicle accident 1.5 to 2 times above control.Those who start using the drug at an early age can possibly experience cognitive impairment when they reach adulthood – even if they stop using the drug later on."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#impairment",
+      "dialog_node": "node_9_1542574769970",
+      "previous_sibling": "node_8_1542574460269"
+    },
+    {
+      "type": "standard",
+      "title": "Cause Addiction",
+      "output": {
+        "text": {
+          "values": [
+            "",
+            "Cannabis if consumed on regular basis can cause addiction. Although some people argue that cannabis is a natural plant with therapeutic benefits,and in a 2011 American study found 8.9% to be the probability of a user becoming dependent on cannabis. This was lower than substances like cocaine, alcohol and nicotine. Cannabis can still be highly addictive.Some doctors prescribe cannabis-derived products to help certain health conditions.If you are repeatedly exposed to THC by using cannabis regularly, you could develop a tolerance for it. Addictive substances typically initiate the onset of withdrawal systems when usage is stopped abruptly."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#addictedcannabis",
+      "dialog_node": "node_5_1542545632259",
+      "previous_sibling": "node_4_1542545437018"
+    },
+    {
+      "type": "standard",
+      "title": "Short term",
+      "output": {
+        "text": {
+          "values": [
+            "Short term effects of cannabis include Impairment to your ability to drive safely or operate equipment,Make it harder to learn and remember things, Affect mood and feelings and Affect mental health.Cannabis can slow reaction times, lower your ability to pay attention, and harm coordination.Using cannabis and driving can result in a car accident, serious injuries or death. Make it harder to learn and remember things:After using cannabis, you may have problems paying attention, remembering or learning things, and making decisions.  Using cannabis can reduce your ability to perform well on the job or at school. Affect mood and feelings: Cannabis use can cause anxiety or panic.Affect mental health: Cannabis can trigger a psychotic episode (not knowing what is real, experiencing paranoia, having disorganized thoughts, and in some cases having hallucinations)."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#shorttetm",
+      "dialog_node": "node_7_1542546093105",
+      "previous_sibling": "node_6_1542545796277"
+    },
+    {
+      "type": "standard",
+      "title": "THC",
+      "output": {
+        "text": {
+          "values": [
+            "THC stands for tetrahydrocannabinol. THC is the psychoactive ingredient in marijuana that produces the feeling of being high. THC is responsible for the way your brain and body respond to cannabis, including the high and intoxication. THC has some therapeutic effects but it also has harmful effects. Harmful effects may be greater when the strength of THC is higher.The THC in cannabis is absorbed into the bloodstream through the walls of the lungs (if smoked), or through the walls of the stomach and intestines (if eaten). The bloodstream carries the THC to the brain, producing the “high” effects. Drugs inhaled get into the bloodstream quicker than those eaten. This means that the effects of cannabis when smoked occur more rapidly than when eaten."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#thc",
+      "dialog_node": "node_4_1542544666200",
+      "previous_sibling": "node_3_1542544287834"
+    },
+    {
+      "type": "standard",
+      "title": "Active Ingredient",
+      "output": {
+        "text": {
+          "values": [
+            "The main active ingredient in cannabis is called delta-9 tetrahydro-cannabinol, commonly known as THC. This is the part of the plant that gives the high sensation.There is a wide range of THC potency between cannabis products."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#activeingredient",
+      "dialog_node": "node_3_1542544287834",
+      "previous_sibling": "node_9_1542543893225"
+    },
+    {
+      "type": "standard",
+      "title": "What is Cannabis",
+      "output": {
+        "text": {
+          "values": [
+            "Cannabis is a tall plant with a stiff upright stem, divided serrated leaves, and glandular hairs. It is used to produce hemp fiber and as a psychotropic drug.From this plant a dried preparation of the flowering tops or other parts of this plant or a resinous extract of it ( cannabis resin ), used (generally illegally) as a psychotropic drug, chiefly in cigarettes.Cannabis is a depressant drug. Depressant drugs do not necessarily make you feel depressed. Rather, they slow down the activity of the central nervous system and the messages going between the brain and the body. When large doses of cannabis are taken it may also produce hallucinogenic effects."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1542543718004",
+      "metadata": {},
+      "conditions": "#whatiscannabis",
+      "dialog_node": "node_8_1542543745952"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "So long",
+            "See ya",
+            "Good bye"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1516824993307",
+      "metadata": {},
+      "conditions": "#Goodbye",
+      "dialog_node": "node_12_1468329566917",
+      "previous_sibling": "node_13_1502484041694"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You're welcome. Just let me know if you need anything else",
+            "No problem. Just let me know if you need anything else",
+            "My pleasure. Just let me know if you need anything else"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1516824993307",
+      "metadata": {},
+      "conditions": "#Thanks",
+      "dialog_node": "node_2_1468243505617",
+      "previous_sibling": "node_12_1468329566917"
+    },
+    {
+      "type": "standard",
+      "title": "Agent",
+      "output": {
+        "text": {
+          "values": [
+            "Unfortunately there is no customer service agent or Expert present at this time. Please contact us through email or phone during our Business Hours."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1516824993307",
+      "metadata": {},
+      "conditions": "#localagent",
+      "dialog_node": "node_10_1542574998742",
+      "previous_sibling": "node_2_1468243505617"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_1_1516824993307",
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_13_1502484041694"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good evening",
+            "Hi. Good evening",
+            "Hello. How can I help this evening?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "node_15_1488295465298",
+      "previous_sibling": "node_1_1495022305143"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good afternoon",
+            "Hi there. It's a beautiful afternoon",
+            "Good afternoon. How can I help?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "node_1_1495022305143",
+      "previous_sibling": "node_16_1488295517679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello",
+            "Hi there",
+            "Hi. How can I help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "dialog_node": "node_28_1522448362216",
+      "previous_sibling": "node_15_1488295465298"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good morning",
+            "It's a beautiful morning. Hello",
+            "Hi there. How can I help you this morning?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "node_16_1488295517679"
+    },
+    {
+      "type": "standard",
+      "title": "Active Ingredient of Cannabis",
+      "output": {
+        "text": {
+          "values": [
+            "The main active ingredient in cannabis is called delta-9 tetrahydro-cannabinol, commonly known as THC. This is the part of the plant that gives the high sensation. There is a wide range of THC potency between cannabis products."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1542543893225",
+      "metadata": {},
+      "conditions": "#activeingredient",
+      "dialog_node": "node_1_1542543990472"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "I didn't understand can you try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_7_1542543718004"
+    },
+    {
+      "type": "folder",
+      "title": "Cannabis",
+      "metadata": {},
+      "dialog_node": "node_7_1542543718004",
+      "previous_sibling": "node_1_1516824993307"
+    },
+    {
+      "type": "folder",
+      "title": "Small Talk",
+      "metadata": {},
+      "digress_in": "not_available",
+      "dialog_node": "node_1_1516824993307",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "text": {
+          "values": [
+            "Hello, I’m a Alex , a virtual assistant to answer questions around Legalization of Cannabis in Canada. I am here to help you with your queries. Feel free to ask me anything."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Opening"
+    }
+  ],
+  "workspace_id": "67bd3ed7-96e1-4813-a758-c80b155325d7",
+  "counterexamples": [],
+  "learning_opt_out": false,
+  "status": "Available"
+}
